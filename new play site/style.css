@@ -1,0 +1,77 @@
+/* черный фон
+белый тхт 
+
+button style='text-align :left'
+*/
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+.btn{
+
+margin-left: 1720px;
+margin-top: 365px;
+font-family: Verdana, sans-serif;
+
+
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+table{
+    margin-bottom: 100px;
+
+}
+
+.atn{
+    margin-top: 15px;
+    margin-left: 5px;
+
+}
+
+body{
+    background-image: url(фонсайт.jpg);
+    font-family: Verdana, sans-serif;
+    font-size: 22px;
+    
+}
+
+a:hover{
+    color: white;
+    
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+    
+}
+
+.mog{
+    color: white;
+    text-decoration: none;
+}
+
+.image-button {
+    width: 65px;
+    height: 65px;
+    border: none;
+    background-size: cover;
+    border-radius: 105px;
+  }
+
+.btn4{
+    font-family: Verdana, sans-serif;
+}
+
+img{
+    border-radius: 20px;
+    box-shadow: 0 0 10px #444;
+    
+}
